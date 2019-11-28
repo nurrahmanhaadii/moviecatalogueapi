@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MovieCatalogueApi</string>
+
+    <string name="movie_image">Movie image</string>
+
+    <string name="movie">Movie</string>
+    <string name="tv_show">Tv Show</string>
+    <string name="overview">Overview</string>
+    <string name="score">User score</string>
+    <string name="popularity">Popularity: %1$s</string>
+    <string name="change_language">Change language</string>
+</resources>
